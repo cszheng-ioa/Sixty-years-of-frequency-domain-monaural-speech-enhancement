@@ -21,12 +21,22 @@ doi = {}<br>
 This survey paper first provides a comprehensive overview of traditional and deep-learning methods for monaural speech enhancement in the frequency domain. The fundamental assumptions of each approach are then summarized and analyzed to clarify their limitations and advantages. A comprehensive evaluation of some typical methods was conducted using the WSJ + DNS and Voice Bank + DEMAND datasets to give an intuitive and unified comparison. The benefits of monaural speech enhancement methods using objective metrics relevant for normal-hearing and hearing-impaired listeners were evaluated.
 
 **Available models**<br>
-![image](Figure/t1.jpg)
+
+![1698239211452](https://github.com/cszheng-ioa/Sixty-years-of-frequency-domain-monaural-speech-enhancement/assets/61300032/5a1496fa-a6ef-4f25-9432-2325d50d6cf5)
+
 
 **Results**<br>
-![image](Figure/t11.jpg)
-![image](Figure/t12.jpg)
-![image](Figure/t13.png)
+1.	Objective test results using the Voice Bank + DEMAND dataset when the input feature was uncompressed. Best scores are highlighted in Bold.
+
+![image](https://github.com/cszheng-ioa/Sixty-years-of-frequency-domain-monaural-speech-enhancement/assets/61300032/76610ec0-6f92-4b35-aa33-37fcecff683c)
+ 
+2.	Objective test results using the Voice Bank + DEMAND dataset when the input feature was compressed. Best scores are highlighted in Bold.
+
+![image](https://github.com/cszheng-ioa/Sixty-years-of-frequency-domain-monaural-speech-enhancement/assets/61300032/d9eea377-44f4-4ea6-a1c6-6508ab9bff08)
+ 
+3.	Values of the HASQI (%)/HASPI (%) for the different methods using the Voice Bank + DEMAND dataset. For all deep-learning methods, both the uncompressed spectrum and the compressed spectrum were used. Bold font indicates the best average score in each group.
+
+![image](https://github.com/cszheng-ioa/Sixty-years-of-frequency-domain-monaural-speech-enhancement/assets/61300032/c3f47b02-8a7f-4038-bf0e-6a430ada095b)
 
 **Citation guide**<br>
 [1] Nicolson A and Paliwal KK (2019) Deep learning for minimum mean-square error approaches to speech enhancement. Speech Communication 111: 44–55. DOI: https://doi.org/10.1016/j.specom.2019.06.002.<br>
