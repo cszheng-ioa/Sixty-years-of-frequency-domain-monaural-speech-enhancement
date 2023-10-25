@@ -26,4 +26,4 @@ Available models<br>
 Results<br>
 ![image](Figure/t11.jpg)
 ![image](Figure/t12.jpg)
-![image](Figure/t13.jpg)
+![image](Figure/t13.png)
