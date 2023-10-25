@@ -16,14 +16,14 @@ year = {2023},<br>
 doi = {}<br>
 }<br>
 
-Contents:<br>
-Introduction<br>
+## Contents:<br>
+**Introduction**<br>
 This survey paper first provides a comprehensive overview of traditional and deep-learning methods for monaural speech enhancement in the frequency domain. The fundamental assumptions of each approach are then summarized and analyzed to clarify their limitations and advantages. A comprehensive evaluation of some typical methods was conducted using the WSJ + DNS and Voice Bank + DEMAND datasets to give an intuitive and unified comparison. The benefits of monaural speech enhancement methods using objective metrics relevant for normal-hearing and hearing-impaired listeners were evaluated.
 
-Available models<br>
+**Available models**<br>
 ![image](Figure/t1.jpg)
 
-Results<br>
+**Results**<br>
 ![image](Figure/t11.jpg)
 ![image](Figure/t12.jpg)
 ![image](Figure/t13.png)
