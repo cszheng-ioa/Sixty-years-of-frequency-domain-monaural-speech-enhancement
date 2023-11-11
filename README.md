@@ -40,7 +40,7 @@ This survey paper first provides a comprehensive overview of traditional and dee
 ![image](https://github.com/cszheng-ioa/Sixty-years-of-frequency-domain-monaural-speech-enhancement/assets/61300032/c3f47b02-8a7f-4038-bf0e-6a430ada095b)
 
 **Citation guide**<br>
-[1] Nicolson A and Paliwal KK (2019) Deep learning for minimum mean-square error approaches to speech enhancement. Speech Communication 111: 44–55. DOI: https://doi.org/10.1016/j.specom.2019.06.002.<br>
+[1] Nicolson A and Paliwal KK (2019) Deep learning for minimum mean-square error approaches to speech enhancement. Speech Communication 111: 44–55. DOI: 10.1016/j.specom.2019.06.002.<br>
 [2] Sun L, Du J, Dai LR and Lee CH (2017) Multiple-target deep learning for LSTM-RNN based speech enhancement. In: 2017 Hands-free Speech Communications and Microphone Arrays (HSCMA). pp. 136–140. DOI:10.1109/HSCMA.2017. 7895577.<br>
 [3] Hao X, Su X, Horaud R and Li X (2021) Fullsubnet: A full-band and sub-band fusion model for real-time single-channel speech enhancement. In: 2021 IEEE International Conference on Acoustics, Speech and Signal Processing. pp. 6633–6637. DOI: 10.1109/ICASSP39728.2021.9414177.<br>
 [4] Tan K and Wang D (2018) A convolutional recurrent neural network for real-time speech enhancement. In: Proc. Interspeech 2018. pp. 3229–3233. DOI:doi:10.21437/Interspeech.2018-1405.<br>
