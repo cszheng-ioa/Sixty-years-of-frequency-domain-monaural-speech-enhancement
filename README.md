@@ -6,16 +6,18 @@ Chengshi Zheng#*, Huiyong Zhang, Wenzhe Liu, Xiaoxue Luo#, Andong Li, Xiaodong L
 
 Please let us know if you find errors or have suggestions to improve the quality of this project by sending an email to: cszheng@mail.ioa.ac.cn; luoxiaoxue@mail.ioa.ac.cn 
 
-@article{Zheng2023SurveyTIH,
-    title={Sixty Years of Frequency-Domain Monaural Speech Enhancement: From Traditional to Deep Learning Methods },
-    author={Zheng, Chengshi and Zhang, Huiyong and Liu, Wenzhe and Luo, Xiaoxue and Li, Andong and Li, Xiaodong and Moore, Brian C. J.},
-journal={Trends in Hearing},
-volume = {},
+@article{ZhengTIH2023_Survey,
+author = {Chengshi Zheng and Huiyong Zhang and Wenzhe Liu and Xiaoxue Luo and Andong Li and Xiaodong Li and Brian C. J. Moore},
+title ={Sixty Years of Frequency-Domain Monaural Speech Enhancement: From Traditional to Deep Learning Methods},
+journal = {Trends in Hearing},
+volume = {27},
 number = {},
-pages = {},
+pages = {23312165231209913},
 year = {2023},
-doi = {}
+doi = {10.1177/23312165231209913}
 }
+
+Zheng C, Zhang H, Liu W, et al. Sixty Years of Frequency-Domain Monaural Speech Enhancement: From Traditional to Deep Learning Methods. Trends in Hearing. 2023;27. doi:10.1177/23312165231209913
 
 ## Contents:<br>
 **Introduction**<br>
