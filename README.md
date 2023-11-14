@@ -2,9 +2,9 @@
 A collection of papers and resources related to frequency-domain monaural speech enhancement. 
 
 When using the models provided in this website, please refer to our survey:
-Chengshi Zheng#*, Huiyong Zhang, Wenzhe Liu, Xiaoxue Luo#, Andong Li, Xiaodong Li, and Brian C. J. Moore#. Sixty Years of Frequency-Domain Monaural Speech Enhancement: From Traditional to Deep Learning Methods. Trends in Hearing. 2023;27. doi:10.1177/23312165231209913
+Chengshi Zheng#*, Huiyong Zhang, Wenzhe Liu, Xiaoxue Luo#, Andong Li, Xiaodong Li, and Brian C. J. Moore#. Sixty Years of Frequency-Domain Monaural Speech Enhancement: From Traditional to Deep Learning Methods. Trends in Hearing. 2023;27. doi:10.1177/23312165231209913<br>
 
-Please let us know if you find errors or have suggestions to improve the quality of this project by sending an email to: cszheng@mail.ioa.ac.cn; luoxiaoxue@mail.ioa.ac.cn 
+Please let us know if you find errors or have suggestions to improve the quality of this project by sending an email to: cszheng@mail.ioa.ac.cn; luoxiaoxue@mail.ioa.ac.cn<br> 
 
 @article{ZhengTIH2023_Survey,
 author = {Chengshi Zheng and Huiyong Zhang and Wenzhe Liu and Xiaoxue Luo and Andong Li and Xiaodong Li and Brian C. J. Moore},
@@ -15,7 +15,7 @@ number = {},
 pages = {23312165231209913},
 year = {2023},
 doi = {10.1177/23312165231209913}
-}
+}<br>
 
 ## Contents:<br>
 **Introduction**<br>
