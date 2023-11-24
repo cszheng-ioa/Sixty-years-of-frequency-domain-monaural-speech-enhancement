@@ -1,6 +1,8 @@
 # Sixty-years-of-frequency-domain-monaural-speech-enhancement
 A collection of papers and resources related to frequency-domain monaural speech enhancement. 
 
+*Note: CTSNet, G2Net, and TaylorSENet will be available soon. 
+
 When using the models provided in this website, please refer to our survey:<br>
 Chengshi Zheng#*, Huiyong Zhang, Wenzhe Liu, Xiaoxue Luo#, Andong Li, Xiaodong Li, and Brian C. J. Moore#. Sixty Years of Frequency-Domain Monaural Speech Enhancement: From Traditional to Deep Learning Methods. Trends in Hearing. 2023;27. doi:10.1177/23312165231209913<br>
 
